@@ -256,7 +256,8 @@ npm run dev
 ### Home Notifications 
 *<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d635044a-f2ee-4af8-88d0-f7371812f75d" />*
 ### AI Response 
-*<imgwidth="1920"height="1080" alt="image" src="https://github.com/user-attachments/assets/c2594f69-6b2b-4c94-9290-63958b729a88" />*
+*<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be8aaf7b-eff7-4177-8167-8df089b61578" />*
+
 ### Notifications 
 *<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a122ee61-02a8-46e3-bf0e-84bc97407c4b" />*
 
