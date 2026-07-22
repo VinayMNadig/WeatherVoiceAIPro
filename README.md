@@ -144,6 +144,30 @@ Receive important weather alerts like:
 - Groq AI API
 
 ---
+# 🌦️ WeatherVoiceAI Pro
+
+> ## "WeatherVoiceAI isn't just another weather app.
+> It's a step toward making weather information conversational, intelligent, and accessible to everyone."
+
+<p align="center">
+
+AI Powered • Voice Enabled • Real-Time Weather • Conversational Intelligence
+
+</p>
+
+---
+
+## 🎥 Live Demo
+
+<p align="center">
+
+<a href="C:\Users\Vinay M Nadig\Videos\Captures\WeatherVoice AI Pro - Personal - Microsoft​ Edge 2026-07-22 23-23-44.mp4">
+<img src="docs/demo-thumbnail.png" width="900">
+</a>
+
+</p>
+
+> 🎬 Click the image above to watch the complete demonstration.
 
 # 📂 Project Structure
 
