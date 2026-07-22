@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100%;
+}
+
+body {
+  font-family: Inter, sans-serif;
+  overflow-x: hidden;
+}
+.scrollbar-hide::-webkit-scrollbar{
+    display:none;
+}
+
+.scrollbar-hide{
+    -ms-overflow-style:none;
+    scrollbar-width:none;
+}
+@keyframes rain {
+  from {
+    transform: translateY(-100px);
+  }
+  to {
+    transform: translateY(110vh);
+  }
+}
+
+.animate-rain {
+  animation: rain linear infinite;
+}
+
+@keyframes snow {
+  from {
+    transform: translateY(-100px) translateX(0);
+  }
+  to {
+    transform: translateY(110vh) translateX(40px);
+  }
+}
+
+.animate-snow {
+  animation: snow linear infinite;
+}
+
+@keyframes cloud {
+
+  from {
+    transform: translateX(-250px);
+  }
+
+  to {
+    transform: translateX(calc(100vw + 300px));
+  }
+
+}
+
+.animate-cloud {
+
+  animation: cloud 35s linear infinite;
+
+}
