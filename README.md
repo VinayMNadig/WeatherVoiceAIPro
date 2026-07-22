@@ -161,7 +161,7 @@ AI Powered • Voice Enabled • Real-Time Weather • Conversational Intelligen
 
 <p align="center">
 
-<a href="C:\Users\Vinay M Nadig\Videos\Captures\WeatherVoice AI Pro - Personal - Microsoft​ Edge 2026-07-22 23-23-44.mp4">
+<a href="C:\Users\Vinay M Nadig\Videos\Captures\WeatherVoice AI Pro">
 <img src="docs/demo-thumbnail.png" width="900">
 </a>
 
